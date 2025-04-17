@@ -52,7 +52,7 @@ This open-source project provides the following example functionalities:
 To better validate Quectel GNSS modules, we have developed the Quectel EVB. Below is the framework of our EVB:
 The EVB is powered via a Type-C USB cable, with power routed to the GNSS module through a Low-Dropout Regulator (LDO). The GNSS module outputs signals through its communication interface on the EVB via a USB-to-UART bridge chip.
  
-![alt text](.\doc\images\EVB-Framework.png)
+![alt text](./doc/images/EVB-Framework.png)
 
 
 ## Quick Start
