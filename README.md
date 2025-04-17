@@ -149,12 +149,12 @@ After selecting the desired example features, proceed with the following steps t
    - Download QGNSS tool from Quectel official website: [www.quectel.com.cn/download-zone](https://www.quectel.com.cn/download-zone).
    - EVB Connects to QGNSS and Click “Firmware Download”
      - Connect the serial port of MCU to QGNSS tool, then click the “Tools” and select the “Firmware Download” after the EVB connects to the QGNSS tool successfully.
-  ![alt text](.\doc\images\EVB-Connects.png)
+  ![alt text](./doc/images/EVB-Connects.png)
    - Download Firmware
      - Step 1: Select the firmware you want to download.
      - Step 2: Click the start button.
      - Step 3: Restart the MCU when the screen displays &zwnj;**“Synchronize…”.**&zwnj; The firmware update can be started after the synchronization is finished.
-  ![alt text](.\doc\images\Update-MCU-APP-Firmware.png)
+  ![alt text](./doc/images/Update-MCU-APP-Firmware.png)
 
 ## License
 Apache 2.0 License: Permits commercial closed-source derivatives.
