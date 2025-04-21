@@ -157,5 +157,7 @@ After selecting the desired example features, proceed with the following steps t
   ![alt text](./doc/images/Update-MCU-APP-Firmware.png)
 
 ## License
-Apache 2.0 License: Permits commercial closed-source derivatives.
-Requirements: Copyright statement is retained, and there is no mandatory open source requirement.
+Apache 2.0 License: 
+  Permits commercial closed-source derivatives.
+Requirements: 
+  Copyright statement is retained, and there is no mandatory open source requirement.
