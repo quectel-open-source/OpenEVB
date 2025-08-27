@@ -9,22 +9,19 @@ mbed TLS 2.28.0 : Apache License 2.0
 
 Copyright Text: 
 
-FatFs Module R0.15 unknown:undefined
-	Copyright (C) 2017, ChaN, all right reserved.// FatFs module is an open source software. Redistribution and use of FatFs in/ source and binary forms, with or without modification, are permitted 
-	Copyright (C) 2021, ChaN, all right reserved.// This software, Embedded Unicode Utilities, is an open source software./ Redistribution and use of this module in source and binary forms,/ with 
-	Copyright (C) 2022, ChaN, all right reserved.// FatFs module is an open source software. Redistribution and use of FatFs in/ source and binary forms, with or without modification, are permitted 
-mbed TLS 2.28.0 debian:mbedtls/2.28.0-1
+cJson 1.7.6
+	Copyright (C) cJson authors.
+FatFs Module R0.15 
+	Copyright (C) 2017-2022, ChaN, all right reserved.
+FreeRTOS Real Time Kernel 10.5.1
+	Copyright (C) FreeRTOS authors.
+mbed TLS 2.28.0 
 	Copyright (c) 2019-2021, Arm Limited. All rights reserved
 	Copyright (c) INRIA and Microsoft Corporation. All rights reserved
 	Copyright 2016-2018 INRIA and Microsoft Corporation
 	Copyright The Mbed TLS Contributors
 	Copyright: 2015-2021 James Cowgill <jcowgill@debian.org>
 	Copyright: The Mbed TLS Contributors
-	copyright-format/1.0/Upstream-Name: mbed TLSSource: https://github.com/ARMmbed/mbedtls/releases/
-	copyright-header.txt -minimal -tmpdir dist/minimal -skip-compilation -extract-uints -add-include <inttypes.h> -add-include <stdbool.h> -add-include "kremlin/internal/compat.h" -add-include "kremlin/in
-	copyright-header.txt -minimal -tmpdir dist/uint128 -skip-compilation -extract-uints -add-include <inttypes.h> -add-include <stdbool.h> -add-include "kremlin/internal/types.h" -bundle FStar.UInt128= *
-	copyright-header.txt -minimal -tmpdir extracted -warn-error * F* version: 059db0c8 * KreMLin version: 916c37ac */
-
 
 Licenses: 
 
